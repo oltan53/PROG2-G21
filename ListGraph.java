@@ -147,4 +147,6 @@ public class ListGraph<T> implements Graph<T>{
         
     }
 
+    //Tjenatjena
+
 }
