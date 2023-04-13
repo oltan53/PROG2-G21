@@ -147,8 +147,5 @@ public class ListGraph<T> implements Graph<T>{
         
     }
 
-    public String toString(){
-        
-    }
 
 }
