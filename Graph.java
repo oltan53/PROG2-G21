@@ -23,4 +23,6 @@ public interface Graph<T> {
     boolean pathExists(T from, T to);
     
     List<Edge<T>> getPath(T from, T to);
+
+    String Hej = new hej;
 }
